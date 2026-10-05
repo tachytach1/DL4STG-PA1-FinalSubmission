@@ -1,0 +1,4 @@
+stage,seed,use_external,normalisation,sequence_length,moving_average_kernel,factor,model_dimension,heads,encoder_layers,decoder_layers,feedforward_dimension,dropout,validation_rmse,validation_mae,validation_smape,parameters,best_epoch,epochs_run,fit_seconds
+screen_5_dimension,17,False,global,336,13,1,48,4,2,1,96,0.1,92.75996256389143,78.92493768722292,104.0980057422142,66385,2,4,32.03465812200011
+screen_5_dimension,17,False,global,336,13,1,64,4,2,1,128,0.1,93.15620027490606,79.61483879694863,104.0855661616236,117185,1,3,24.132893056000057
+screen_5_dimension,17,False,global,336,13,1,96,4,2,1,192,0.1,93.79634278562013,80.67481862931024,104.60484230758456,261793,1,3,33.584843427999886

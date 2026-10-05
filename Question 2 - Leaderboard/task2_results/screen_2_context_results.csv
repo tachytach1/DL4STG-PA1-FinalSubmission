@@ -1,0 +1,3 @@
+stage,seed,use_external,normalisation,sequence_length,moving_average_kernel,factor,model_dimension,heads,encoder_layers,decoder_layers,feedforward_dimension,dropout,validation_rmse,validation_mae,validation_smape,parameters,best_epoch,epochs_run,fit_seconds
+screen_2_context,17,False,global,336,25,2,64,4,2,1,128,0.1,92.60325580256463,78.03520064126877,103.84259985108974,117185,4,6,54.814047226999946
+screen_2_context,17,False,global,672,25,2,64,4,2,1,128,0.1,97.71963008341429,83.92353507450649,105.31587052294473,117185,1,3,47.71499902100004
